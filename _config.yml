@@ -25,7 +25,7 @@ description: Welcome to the official IEEE-HKN NUS Lambda Omega Chapter website!
 navbar-links:
   Home: "http://nus-ieee-hkn.github.io"
   About: "about.html"
-  News: "news.html"
+  News: ""
   Resources: "resources.html"
   Committee: "committee.html"
   Members: "members.html"
