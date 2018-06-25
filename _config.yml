@@ -14,25 +14,29 @@ baseurl: "/news"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: IEEE-HKN NUS
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Welcome to the official IEEE-HKN NUS Lambda Omega Chapter website!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Home: "http://nus-ieee-hkn.github.io"
+  About: "about.html"
+  News: ""
+  Resources: "resources.html"
+  Committee: "committee.html"
+  Members: "members.html"
+  # Resources:
+  #   - Electrical Engineering: "electrical"
+  #   - Computer Engineering: "computer"
+  Contact Us: "contactus.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/hkn.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -64,18 +68,18 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: IEEE-HKN NUS
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  # rss: true
+  email: "nus.ieee.hkn@gmail.com"
+  facebook: "IEEE.HKN" #can be edited to direct to our own fb link
+  github: nus-ieee-hkn
+  twitter: "IEEE_EtaKappaNu"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -83,7 +87,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  # youtube: user/tobeimplemented
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -92,14 +96,15 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
+  # youtube: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "nus-ieee-hkn.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -142,7 +147,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Singapore"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
