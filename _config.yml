@@ -14,7 +14,7 @@ baseurl: "/news"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: IEEE-HKN NUS
+title: IEEE-HKN NUS News
 
 # Short description of your site
 description: Welcome to the official IEEE-HKN NUS Lambda Omega Chapter website!
@@ -24,15 +24,15 @@ description: Welcome to the official IEEE-HKN NUS Lambda Omega Chapter website!
 # List of links in the navigation bar
 navbar-links:
   Home: "http://nus-ieee-hkn.github.io"
-  About: "about.html"
-  News: ""
-  Resources: "resources.html"
-  Committee: "committee.html"
-  Members: "members.html"
+  About: "http://nus-ieee-hkn.github.io/about.html"
+  News: "#"
+  Resources: "http://nus-ieee-hkn.github.io/resources.html"
+  Committee: "http://nus-ieee-hkn.github.io/committee.html"
+  Members: "http://nus-ieee-hkn.github.io/members.html"
   # Resources:
   #   - Electrical Engineering: "electrical"
   #   - Computer Engineering: "computer"
-  Contact Us: "contactus.html"
+  Contact Us: "http://nus-ieee-hkn.github.io/contactus.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -76,10 +76,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   # rss: true
-  email: "nus.ieee.hkn@gmail.com"
-  facebook: "IEEE.HKN" #can be edited to direct to our own fb link
-  github: nus-ieee-hkn
   twitter: "IEEE_EtaKappaNu"
+  facebook: "IEEE.HKN"
+  github: nus-ieee-hkn
+  email: "nus.ieee.hkn@gmail.com"  
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
