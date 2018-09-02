@@ -26,7 +26,7 @@ at the end of this email.
 Sign Up Link:
 https://docs.google.com/forms/d/1FiHm3pZ-gLYAv9qvrG7DWN_23lQ7eI9JIojiyNsvhA8 
  
-If you have any doubts, you can respond to this email directly and we will answer your queries as soon as possible.
+If you have any doubts, feel free to [contact us](https://nus-ieee-hkn.github.io/contactus.html) and we will answer your queries as soon as possible.
  
 Thank you and have an awesome semester!
 
