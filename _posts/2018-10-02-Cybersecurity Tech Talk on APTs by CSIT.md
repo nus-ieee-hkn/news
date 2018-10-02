@@ -14,7 +14,7 @@ Join us for an interactive tech talk session on the booming cyber security indus
 <div style="display: table;">
     <div style="display: table-cell; vertical-align: middle; width: 60%;">
         Register for the talk @ 
-        <a href=https://tinyurl.com/NUSECE-CSIT>
+        <a href="https://tinyurl.com/NUSECE-CSIT">
             https://tinyurl.com/NUSECE-CSIT
         </a>
     </div>
