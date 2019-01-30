@@ -1,6 +1,6 @@
 # NUS IEEE HKN NEWS BLOG
 
-## Get Started
+## Beginner guide to adding a new post
 To create a new post, you will need to create a new file in the `_posts` folder.
 ![posts](img/README_posts.png)
 
@@ -65,11 +65,11 @@ tags: [induction, ceremony]
 where `layout` must be `post` and `tags` in lower case. <br/>
 The content uses [Markdown Format](https://www.markdownguide.org/basic-syntax/) but can also include html elements. <br/>
 
-When you're done drafting your post, scroll to the bottom and commit your changes.
+When you're done drafting your post, scroll to the bottom and commit your changes. <br/>
+Do use the format `Post: ...` in the title, create a new branch with a meaningful name, and click `Commit changes`.
 ![posts](img/README_commit.png)
-Do use the format `Post: ...` in the title, create a new branch with a meaningful name, and start a pull request.
 
-After clicking the `Commit changes`, go back to [landing page]() again to start the pull request. 
+After clicking the `Commit changes`, go back to [landing page](https://github.com/nus-ieee-hkn/news) again to start the pull request. 
 ![posts](img/README_pull_request.png)
 
 Do notify this repository administrator or HKN IT group when you're done so that they can add your changes to the website!
