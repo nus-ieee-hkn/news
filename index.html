@@ -4,7 +4,13 @@ title: News
 subtitle: Read more about the latest initiatives started by IEEE-HKN NUS and stay updated with upcoming events.
 use-site-title: true
 ---
-
+<script type="text/javascript">
+$(document).ready(function () {
+    if(window.location.href.indexOf("news") > -1) {
+        window.location.href = '/news';
+    }
+});
+</script>
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
