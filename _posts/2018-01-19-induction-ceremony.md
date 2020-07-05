@@ -11,7 +11,7 @@ tags: [induction, ceremony]
     Inductees reciting the pledge
 </div>
 
-&emsp;Gracing the ceremony were Associate Professor Aaron Danner and  Associate Professor Prahlad Vadakkepat. The President of the Honor Society, Chen Si, presented the inductees with their membership certificates during the ceremony.
+&emsp;Gracing the ceremony were Associate Professor Aaron Danner and  Associate Professor Prahlad Vadakkepat. The President of the Chapter, Chen Si, presented the inductees with their membership certificates during the ceremony.
 
 <div style="text-align:center; font-size: 12px">
     <img src ="/news/img/2018/2018-01-19-ic-1-2.JPG" width="600"><br>
