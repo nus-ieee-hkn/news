@@ -7,7 +7,7 @@ tags: [alumni, networking, career]
 &emsp;In the lead-up to the new academic year, NUS IEEE-HKN conducted the inaugural online Alumni Networking and Sharing session, attended by 9 current undergraduates and 4 alumni members. In this session, we welcomed back IEEE-HKN alumni members to share their experiences with current members of the Lambda Omega chapter, including Daryl, who provided tips on job-searching, Chen Si, who highlighted the relevance of his experiences in university to his career and Shuli, who shared about her graduate studies experiences abroad.
 
 <div style="text-align:center">
-    <img src="/news/img/2020/2020-06-27-anss-wb.png" width="600">
+    <img src="/news/img/2020/2020-06-27-anss-wb.png" width="750">
   <div style="text-align:center; font-size: 12px">Participants of the Alumni Networking and Sharing Session</div>
 </div>
 
