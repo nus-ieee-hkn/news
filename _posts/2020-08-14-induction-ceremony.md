@@ -14,10 +14,10 @@ tags: [induction, ceremony]
 &emsp;The ceremony was graced by the academic staff of the ECE department, which included Associate Professor Aaron Danner, Professor Lawrence Wong, Dr. Chua Dingjuan and Professor Qiu Cheng Wei. The ceremony started with some opening remarks from Dr. Chua Dingjuan. A formal induction ritual followed it, during which, The President of the Chapter, Vikash Jeyathevan, presented the inductees with their membership certificates.
 
 <div style="text-align:center; font-size: 12px">
-    <img src ="/news/img/2020/2020-08-14-ic-1-2.heic" width="600"><br>
+    <img src ="/news/img/2020/2020-08-14-ic-1-2.HEIC" width="600"><br>
     Live in Person participants<br>
     ((Bottom Row - rightmost) Professor Aaron Danner; (Bottom Row - second from right) Professor Qiu Cheng Wei;) 
-    <img src ="/news/img/2020/2020-08-14-ic-1-3.png" width="600"><br>
+    <img src ="/news/img/2020/2020-08-14-ic-1-3.PNG" width="600"><br>
     Virtual participants<br>
     ((Bottom Right) Professor Lawrence Wong)
 </div>
