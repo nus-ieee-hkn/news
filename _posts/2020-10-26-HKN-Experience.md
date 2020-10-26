@@ -19,8 +19,6 @@ tags: [HKNx2020, TheHKNExperience]
 
 Learn more and register here: https://hknx2020.org 
 
-
 <div style="text-align:center; font-size: 12px">
     <img src ="/news/img/2020/2020-10-26-hkn-exp.jpg" width="600"><br>
 </div>
-
