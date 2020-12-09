@@ -11,5 +11,5 @@ tags: [PhD, event, 2020]
 &emsp;We appreciate the time that the speakers have spared out of their busy schedule and of the same importance, we also thank the participants who have joined the session despite it being held in a reading week. We hope that despite it being held online, participants still find the sharing session meaningful and helpful for their future careers!
 
 <div style="text-align:center; font-size: 12px">
-    <img src ="/news/img/2020/2020-11-18-pgss.png" width="400"><br>
+    <img src ="/news/img/2020/2020-11-18-pgss.png" width="600"><br>
 </div>
