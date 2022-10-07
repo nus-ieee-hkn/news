@@ -14,10 +14,10 @@ tags: [induction, ceremony]
 &emsp;Prior to the ceremony, Dr. Chua Dingjuan, associate professor for this chapter, unfortunately couldn't make for Covid-19 positive result. However, we were still honoured to have Qiu Cheng Wei, an ECE department member instead with substantial closing remarks. A formal induction ritual followed it, during which, The President of the Chapter, Nguyen Tien Khoa, presented the inductees with their membership certificates.
 
 <div style="text-align:center; font-size: 12px">
-    <img src ="/news/img/2022/2022-08-14-ic-1-2.JPG" width="600"><br>
+    <img src ="/news/img/2022/2022-09-08-ic-1-2.JPG" width="600"><br>
     Newly inductees with current committee's members<br>
     ((Bottom Row - fourth rightmost) Professor Qiu Cheng Wei) 
-    <img src ="/news/img/2022/2022-08-14-ic-1-3.PNG" width="600"><br>
+    <img src ="/news/img/2022/2022-09-08-ic-1-3.PNG" width="600"><br>
     Ceremony's coordinators<br>
     ((Left of the podium) Matsutake Teppei; (Right of the podium) Nguyen Tien Khoa;)
 </div>
