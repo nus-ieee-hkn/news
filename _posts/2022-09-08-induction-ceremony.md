@@ -17,7 +17,7 @@ tags: [induction, ceremony]
     <img src ="/news/img/2022/2022-09-08-ic-1-2.JPG" width="600"><br>
     Newly inductees with current committee's members<br>
     ((Bottom Row - fourth rightmost) Professor Qiu Cheng Wei) 
-    <img src ="/news/img/2022/2022-09-08-ic-1-3.PNG" width="600"><br>
+    <img src ="/news/img/2022/2022-09-08-ic-1-3.JPG" width="600"><br>
     Ceremony's coordinators<br>
     ((Left of the podium) Matsutake Teppei; (Right of the podium) Nguyen Tien Khoa;)
 </div>
